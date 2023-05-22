@@ -1,2 +1,4 @@
-package com.luv2code.ecommerce.entity;public class State {
+package com.luv2code.ecommerce.entity;
+
+public class State {
 }

@@ -1,2 +1,4 @@
-package com.luv2code.ecommerce.entity;public class Country {
+package com.luv2code.ecommerce.entity;
+
+public class Country {
 }
